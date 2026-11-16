@@ -1,0 +1,194 @@
+{
+ "schema_version": 1,
+ "releases": [
+  {
+   "content_id": "BLOP-0001",
+   "character": "Blop",
+   "title": "Label both ends of your cables",
+   "summary": "Blop shows how to label cable ends and use one colour per device.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0001/blop-tip-cable-label-60fps.mp4",
+   "sha256": "0980db2681786d75c02de2dbc540fd1fe94dbe1378f9b4e5599a39aa47329887",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-16T22:24:05+01:00",
+   "source_file": "blop-tip-cable-label-60fps.mp4",
+   "captions_ref": "CAPTIONS.md section for this topic",
+   "notes": "Owner approved content 2026-11-16 and said publishing is allowed. AI label in corner of every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0002",
+   "character": "Blop",
+   "title": "Turn on 2-step login",
+   "summary": "App code is usually safer than a text; a text beats nothing.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0002/blop-tip-two-step-login-60fps.mp4",
+   "sha256": "0a4a40fddce264cece8f577fbf3a108cd7f20e53b27940479c389dfa462936da",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-16T22:24:05+01:00",
+   "source_file": "blop-tip-two-step-login-60fps.mp4",
+   "captions_ref": "CAPTIONS.md section for this topic",
+   "notes": "Owner approved content 2026-11-16 and said publishing is allowed. AI label in corner of every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0003",
+   "character": "Blop",
+   "title": "Binder clip keeps cables on the desk",
+   "summary": "Clip on the desk edge, thread the cable through the handle.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0003/blop-tip-binder-clip-60fps.mp4",
+   "sha256": "fc5ce746ece075e9f8649bd845eded7a10386337919fb08e62b6a8e386170037",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-16T22:24:05+01:00",
+   "source_file": "blop-tip-binder-clip-60fps.mp4",
+   "captions_ref": "CAPTIONS.md section for this topic",
+   "notes": "Owner approved content 2026-11-16 and said publishing is allowed. AI label in corner of every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0004",
+   "character": "Blop",
+   "title": "Wi-Fi: 2.4 or 5 GHz",
+   "summary": "Far away try 2.4, close by try 5; usually, not always.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0004/blop-tip-wifi-24-or-5-60fps.mp4",
+   "sha256": "ea49dc056ce2a1dad044667075a7138f2cb307deb80b82ae6966af2870a309a2",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-16T22:24:05+01:00",
+   "source_file": "blop-tip-wifi-24-or-5-60fps.mp4",
+   "captions_ref": "CAPTIONS.md section for this topic",
+   "notes": "Owner approved content 2026-11-16 and said publishing is allowed. AI label in corner of every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0005",
+   "character": "Blop",
+   "title": "AI can make up sources",
+   "summary": "Open the link, search the title, read the page; if it is not there, do not use it.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0005/blop-tip-ai-sources-60fps.mp4",
+   "sha256": "190d6e7b4952cd461216f6a19bf46aaa165b90973932a359a21a03810ea7a231",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-16T22:24:05+01:00",
+   "source_file": "blop-tip-ai-sources-60fps.mp4",
+   "captions_ref": "CAPTIONS.md section for this topic",
+   "notes": "Owner approved content 2026-11-16 and said publishing is allowed. AI label in corner of every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0006",
+   "character": "Blop",
+   "title": "Coil cables without kinks",
+   "summary": "Loop over then under, flip your wrist, strap it loosely.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0006/blop-tip-coil-over-under-60fps.mp4",
+   "sha256": "00c18671b7dacbf34957cb9631e656cdb286760351d9fa9231d5e5c87c29af15",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-16T22:24:05+01:00",
+   "source_file": "blop-tip-coil-over-under-60fps.mp4",
+   "captions_ref": "CAPTIONS.md section for this topic",
+   "notes": "Owner approved content 2026-11-16 and said publishing is allowed. AI label in corner of every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0007",
+   "character": "Blop",
+   "title": "Long beats weird: passphrase",
+   "summary": "Four random words, never reuse passwords.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0007/blop-tip-passphrase-60fps.mp4",
+   "sha256": "a867dedd124c791d159cb791c940f18492b43856bfa6718ed5964e7ca17a34db",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-16T22:24:05+01:00",
+   "source_file": "blop-tip-passphrase-60fps.mp4",
+   "captions_ref": "CAPTIONS.md section for this topic",
+   "notes": "Owner approved content 2026-11-16 and said publishing is allowed. AI label in corner of every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0008",
+   "character": "Blop",
+   "title": "Not every USB-C cable is the same",
+   "summary": "Read the cable and the box: charge, data, screen.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0008/blop-tip-usbc-which-60fps.mp4",
+   "sha256": "37c214482678ccee9b480d5af053643c8dc5fcbd781c207252dec319584bba5f",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-16T22:24:05+01:00",
+   "source_file": "blop-tip-usbc-which-60fps.mp4",
+   "captions_ref": "CAPTIONS.md section for this topic",
+   "notes": "Owner approved content 2026-11-16 and said publishing is allowed. AI label in corner of every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0009",
+   "character": "Blop",
+   "title": "The 3-2-1 backup rule",
+   "summary": "3 copies, 2 kinds of storage, 1 elsewhere, and test a restore.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0009/blop-tip-321-backup-60fps.mp4",
+   "sha256": "ac450533a0670d52bc67f6bed67c7f5510d21745287f6f6516adf12bfc010a29",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-16T22:24:05+01:00",
+   "source_file": "blop-tip-321-backup-60fps.mp4",
+   "captions_ref": "CAPTIONS.md section for this topic",
+   "notes": "Owner approved content 2026-11-16 and said publishing is allowed. AI label in corner of every frame; set AI-generated flags on platforms."
+  }
+ ]
+}
