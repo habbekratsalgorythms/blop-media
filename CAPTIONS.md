@@ -11,11 +11,11 @@ Per film: caption (tip + vraag), 5 hashtags, TikTok-titel (<90 tekens, zonder ha
 - IG alt-tekst: Cartoon alien Blop in a tidy office shows a tangle of cables, then adds a small label to both ends of one cable.
 - AI-vermelding: Blop is an AI character.
 
-## 2. Binder clip - GEEN BRON IN PLANNEN
-Geen tekst in blop-plan.md of andere plannen. Niet uitschrijven of publiceren tot er een tip-script (en bij een feitelijke claim een bron) is.
+## 2. Binder clip (BLOP-0003) - GEREED, captions in sectie 10
+Bijgewerkt 2026-11-17: het eerdere 'geen bron'-voorbehoud is OPGELOST. Het tip-script staat in de film zelf (concepts/blop-tip-binder-clip.json): clip op de bureaurand, kabel door de metalen hendel. Alledaags bureautrucje, geen feitelijke claim, geen cijfers, geen merk; geen bron nodig. Eigenaar heeft de film goedgekeurd en publicatie toegestaan (READY in releases/index.json). Captions: sectie 10.
 
-## 3. Kabels oprollen - GEEN BRON IN PLANNEN
-Idem: nog geen script/bron. Eerst plan aanvullen.
+## 3. Kabels oprollen (BLOP-0006) - GEREED, captions in sectie 11
+Bijgewerkt 2026-11-17: het eerdere voorbehoud is OPGELOST. Script in concepts/blop-tip-coil-over-under.json: over-onder oprollen, pols draaien, losjes vastzetten met strap of kabelbinder. Gangbare AV-/kabeltechniek, geen cijfers, geen merk, geen veiligheidsclaim; geen bron nodig. Eigenaar heeft de film goedgekeurd en publicatie toegestaan (READY). Captions: sectie 11.
 
 ## 4. Welke USB-C-kabel (EP1: same plug shape, different cable)
 Bron: USB-IF-specificaties (alleen connector beschreven; laadvermogen en dataversie verschillen), zie blop-plan EP1. Geen merken/logo's, geen "certified", geen cijfers.
