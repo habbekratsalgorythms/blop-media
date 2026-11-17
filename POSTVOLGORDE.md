@@ -25,3 +25,23 @@ Volgorde van alle 18 tipfilms (previews/blop-tip-<naam>-60fps.mp4). Regel: geen 
 Muziek (17 nov 2026): precies 4 liedjes (0 = origineel pizzicato, 1 = marimba-arpeggio, 2 = stuiterend staccato, 3 = kalme pad). Batch 1 = 0 (live, niet aangeraakt); batch 2 zo gekozen dat geen twee buren dezelfde variant hebben (batch-2 films naast een batch-1 film zijn nooit 0). Vastgelegd als `music_variant` in concepts/blop-tip-<naam>.json.
 
 Opmerking: de eerste batch (9 films) staat zo gemengd dat de 4 kabelfilms op plek 1, 5, 9 en 13 vallen (minimaal 3 andere films ertussen). Bij uitval van een film schuift de rest op; controleer dan opnieuw dat buren niet hetzelfde thema hebben.
+
+## Metricool-overdracht voor Claude (17 nov 2026)
+
+Dit is de feitelijke planning van de eerste goedgekeurde batch op TikTok. De onderstaande berichten zijn ingepland voor automatische publicatie; een geslaagde publicatie op TikTok is nog niet vastgesteld. Tijdzone: Europe/Amsterdam. Controleer bij vervolgwerk eerst planner én gepubliceerde video’s op hetzelfde onderwerp/ID om dubbelen te voorkomen.
+
+| Content-ID | Geplande datum en tijd | Metricool-post-ID | Stand |
+|---|---|---:|---|
+| BLOP-0001 | 18-11-2026 10:00 | 432003082 | PENDING |
+| BLOP-0002 | 19-11-2026 10:00 | 432003702 | PENDING |
+| BLOP-0004 | 21-11-2026 10:00 | 432004432 | PENDING |
+| BLOP-0005 | 22-11-2026 10:00 | 432004536 | PENDING |
+| BLOP-0007 | 24-11-2026 10:00 | 432004647 | PENDING |
+| BLOP-0008 | 25-11-2026 10:00 | 432004771 | PENDING |
+| BLOP-0009 | 26-11-2026 10:00 | 432004846 | PENDING |
+
+Alle zeven zijn teruggelezen met een MP4-bijlage, `autoPublish: true` en `tiktokData.isAigc: true`. De captions zijn op onderwerp gekoppeld aan CAPTIONS.md, met de vijf hashtags en `Blop is an AI character.`. De negen bronvideo’s van BLOP-0001 t/m 0009 gaven HTTP 200 en een passende SHA-256 conform releases/index.json. Vóór planning was de toekomstige planner leeg en toonden de beschikbare TikTok-analytics sinds 1 november geen gepubliceerde video.
+
+**Nog open:** BLOP-0003 en BLOP-0006. CAPTIONS.md bevat eerst een oude expliciete waarschuwing om binderclip en kabels oprollen niet te publiceren wegens ontbrekend script/bron, en later wel uitgewerkte captions in §10 en §11. Ondanks READY en eigenaarstoestemming in de index wees de automatische veiligheidscontrole BLOP-0003 tweemaal af; BLOP-0006 is vanwege hetzelfde conflict niet geprobeerd. Review de scripts/basis en los die tegenstrijdige tekst op voordat opnieuw wordt ingepland. De 20e en 23e zijn niet gereserveerd. BLOP-0010 t/m 0018 zijn buiten deze goedgekeurde batch gelaten.
+
+**Invoer voor de koppeling:** de publieke MP4-URL werkt als item in `info.media`, met `providers: [{"network":"tiktok"}]`, `publicationDate` in Europe/Amsterdam, `autoPublish: true`, `tiktokData.title` en `tiktokData.isAigc: true`. Het aparte `mediaFiles`-argument wees een GitHub-URL als bestandspad af; een lokaal pad gaf `INVALID_ARGUMENT`. Na de werkende invoer nam Metricool de media over. De reeds ingeplande volgorde volgt content-ID’s en is niet de gemengde creatieve volgorde in de tabel hierboven; wijzig bestaande posts niet zonder opdracht.
