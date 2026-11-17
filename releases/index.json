@@ -189,6 +189,195 @@
    "source_file": "blop-tip-321-backup-60fps.mp4",
    "captions_ref": "CAPTIONS.md section for this topic",
    "notes": "Owner approved content 2026-11-16 and said publishing is allowed. AI label in corner of every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0010",
+   "character": "Blop",
+   "title": "Wipe the camera lens",
+   "summary": "Veeg de lens met een zachte, schone doek.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0010/blop-tip-phone-lens-60fps.mp4",
+   "sha256": "46542124d6b44862f4e3d1e736edb5e8cea7f3f603c360f31faaea402595492c",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-17T20:25:50+01:00",
+   "source_file": "blop-tip-phone-lens-60fps.mp4",
+   "captions_ref": "CAPTIONS.md, batch 2 section",
+   "notes": "Owner approved 2026-11-17. AI label in every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0011",
+   "character": "Blop",
+   "title": "Monitor at eye level",
+   "summary": "Bovenrand ongeveer op ooghoogte.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0011/blop-tip-monitor-height-60fps.mp4",
+   "sha256": "0d1fe42e0bded7128b47f18e65720d0c34b659558c9bbd72d25b09c7a787fe00",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-17T20:25:50+01:00",
+   "source_file": "blop-tip-monitor-height-60fps.mp4",
+   "captions_ref": "CAPTIONS.md, batch 2 section",
+   "notes": "Owner approved 2026-11-17. AI label in every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0012",
+   "character": "Blop",
+   "title": "Role, goal, format",
+   "summary": "Rol, doel, formaat.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0012/blop-tip-ai-prompt-60fps.mp4",
+   "sha256": "707e4e67b5ba363eea8a971da69783539f02dac5b613c7b8be73868e60784b37",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-17T20:25:50+01:00",
+   "source_file": "blop-tip-ai-prompt-60fps.mp4",
+   "captions_ref": "CAPTIONS.md, batch 2 section",
+   "notes": "Owner approved 2026-11-17. AI label in every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0013",
+   "character": "Blop",
+   "title": "Router high and central",
+   "summary": "Router hoog en centraal.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0013/blop-tip-router-spot-60fps.mp4",
+   "sha256": "8b35ab133409a236ae1f9076fea9e9cab3c7bbb8218af4cc46c31b5da54e69b5",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-17T20:25:50+01:00",
+   "source_file": "blop-tip-router-spot-60fps.mp4",
+   "captions_ref": "CAPTIONS.md, batch 2 section",
+   "notes": "Owner approved 2026-11-17. AI label in every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0014",
+   "character": "Blop",
+   "title": "Check the real link",
+   "summary": "Wijs, lees het echte adres, klik niet bij mismatch.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0014/blop-tip-email-link-60fps.mp4",
+   "sha256": "c51e14acec66b5418ea3cbb49fbad69d43fc3a597fd7403075448e69dea7e366",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-17T20:25:50+01:00",
+   "source_file": "blop-tip-email-link-60fps.mp4",
+   "captions_ref": "CAPTIONS.md, batch 2 section",
+   "notes": "Owner approved 2026-11-17. AI label in every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0015",
+   "character": "Blop",
+   "title": "Light in front of you",
+   "summary": "Licht voor je, niet achter je.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0015/blop-tip-webcam-light-60fps.mp4",
+   "sha256": "bec234a6e166f4876a06379bbe22ee797dcd24f1079f6697f5d2d6d61c8c0dad",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-17T20:25:50+01:00",
+   "source_file": "blop-tip-webcam-light-60fps.mp4",
+   "captions_ref": "CAPTIONS.md, batch 2 section",
+   "notes": "Owner approved 2026-11-17. AI label in every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0016",
+   "character": "Blop",
+   "title": "Reopen a closed tab",
+   "summary": "Heropen de laatst gesloten tab met een sneltoets.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0016/blop-tip-reopen-tab-60fps.mp4",
+   "sha256": "85961db960f2336599b3bfb8e7ae7e7cbeb5d07dc15141d0135a81a6f89ec806",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-17T20:25:50+01:00",
+   "source_file": "blop-tip-reopen-tab-60fps.mp4",
+   "captions_ref": "CAPTIONS.md, batch 2 section",
+   "notes": "Owner approved 2026-11-17. AI label in every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0017",
+   "character": "Blop",
+   "title": "Keep laptop vents free",
+   "summary": "Harde ondergrond, ventilatie vrij.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0017/blop-tip-laptop-vents-60fps.mp4",
+   "sha256": "6c3932eb08424955119d0072f0531158d834d98fb8193d3ba94fa4d746e8f221",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-17T20:25:50+01:00",
+   "source_file": "blop-tip-laptop-vents-60fps.mp4",
+   "captions_ref": "CAPTIONS.md, batch 2 section",
+   "notes": "Owner approved 2026-11-17. AI label in every frame; set AI-generated flags on platforms."
+  },
+  {
+   "content_id": "BLOP-0018",
+   "character": "Blop",
+   "title": "Automatic updates",
+   "summary": "Zet automatische updates aan.",
+   "status": "READY",
+   "media_url": "https://github.com/habbekratsalgorythms/blop-media/releases/download/BLOP-0018/blop-tip-auto-update-60fps.mp4",
+   "sha256": "b3432996fa11c7e1d821e63938354598b40479f8b37b8ff2d8d8932ae30c260d",
+   "technical_qa_pass": true,
+   "rights_checked": true,
+   "ai_generated": true,
+   "platforms": [
+    "instagram",
+    "tiktok"
+   ],
+   "approved_via_claude": true,
+   "created_at": "2026-11-17T20:25:50+01:00",
+   "source_file": "blop-tip-auto-update-60fps.mp4",
+   "captions_ref": "CAPTIONS.md, batch 2 section",
+   "notes": "Owner approved 2026-11-17. AI label in every frame; set AI-generated flags on platforms."
   }
  ]
 }

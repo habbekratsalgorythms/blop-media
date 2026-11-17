@@ -83,3 +83,68 @@ Bron: gangbare audio-/AV-techniek (over-under), geen cijfers.
 
 ## Niet in deze lijst
 Batterij (EP5) en overige oude EP's: niet gevraagd. Oude Blop-EP2-6-video's niet publiceren (QUALITY-NOTES). Titels/alt-teksten zijn voorstellen; check de film zelf voor posten.
+
+# Batch 2 (BLOP-0010 en verder; bronnen: BLOP-TIP-BRONNEN.md, open de bron voor je citeert)
+
+## BLOP-0010 Wipe the camera lens
+- Caption: Hazy photos? A smudged lens is a common cause. Wipe it with a soft, clean cloth, then take the shot. When did you last clean yours?
+- Hashtags: #PhoneTips #TechTips #Photography #LifeHacks #Gadgets
+- TikTok-titel: Hazy phone photos? Wipe the lens first
+- IG alt-tekst: Cartoon alien Blop next to a phone with a smudged camera lens; text reads "Wipe the lens, then take the shot".
+- AI-vermelding: Blop is an AI character.
+
+## BLOP-0011 Monitor at eye level
+- Caption: Set the top edge of your monitor at about eye level and your neck will thank you. Where is your screen right now?
+- Hashtags: #DeskSetup #Ergonomics #TechTips #WorkFromHome #LifeHacks
+- TikTok-titel: Monitor height: top edge at eye level
+- IG alt-tekst: Cartoon alien Blop next to a monitor raised on books; text reads "Top edge at eye level".
+- AI-vermelding: Blop is an AI character.
+
+## BLOP-0012 Role, goal, format
+- Caption: Vague AI answers? Give it a role, say the goal and ask for a format. Small change, clearer answers. What do you ask AI most?
+- Hashtags: #AITips #Prompting #TechTips #ArtificialIntelligence #LifeHacks
+- TikTok-titel: Better AI answers: role, goal, format
+- IG alt-tekst: Cartoon alien Blop beside three prompt chips reading Role, Goal and Format.
+- AI-vermelding: Blop is an AI character.
+
+## BLOP-0013 Router high and central
+- Caption: Wi-Fi weak in some rooms? Put the router high and in a central spot, not in a cupboard. Where does yours live?
+- Hashtags: #WiFi #TechTips #HomeNetwork #LifeHacks #Gadgets
+- TikTok-titel: Better Wi-Fi: put the router high and central
+- IG alt-tekst: Cartoon alien Blop next to a house with a router placed high in the middle; text reads "High and central".
+- AI-vermelding: Blop is an AI character.
+
+## BLOP-0014 Check the real link
+- Caption: Hover over a link, or press and hold on a phone, and read the real address. If it does not match the sender, do not click. Do you check before you click?
+- Hashtags: #Cybersecurity #Phishing #TechTips #OnlineSafety #LifeHacks
+- TikTok-titel: Check where a link really goes before you click
+- IG alt-tekst: Cartoon alien Blop next to a fake bank login with a mismatching address; text reads "No match? Don't click".
+- AI-vermelding: Blop is an AI character.
+
+## BLOP-0015 Light in front of you
+- Caption: On camera calls, put the light in front of you, not behind. Behind you makes you a silhouette. How is your setup lit?
+- Hashtags: #WebcamTips #WorkFromHome #TechTips #VideoCalls #LifeHacks
+- TikTok-titel: Webcam tip: light in front, not behind
+- IG alt-tekst: Cartoon alien Blop next to a video call window with a lamp in front; text reads "Light in front of you".
+- AI-vermelding: Blop is an AI character.
+
+## BLOP-0016 Reopen a closed tab
+- Caption: Closed a tab by accident? Most browsers can reopen the last closed tab with a keyboard shortcut. Check your browser's help for the exact keys. Did this ever save you?
+- Hashtags: #BrowserTips #TechTips #Productivity #LifeHacks #Shortcuts
+- TikTok-titel: Reopen a closed tab with a shortcut
+- IG alt-tekst: Cartoon alien Blop next to keyboard keys and a browser tab bar; text reads "Bring the tab back".
+- AI-vermelding: Blop is an AI character.
+
+## BLOP-0017 Keep laptop vents free
+- Caption: A hot laptop? Use a hard, flat surface and keep the vents free so air can flow. Do you use yours on a blanket?
+- Hashtags: #LaptopTips #TechTips #Gadgets #LifeHacks #Cooling
+- TikTok-titel: Hot laptop? Use a hard surface, keep vents free
+- IG alt-tekst: Cartoon alien Blop next to a laptop on a desk with air flowing; text reads "Air can flow again".
+- AI-vermelding: Blop is an AI character.
+
+## BLOP-0018 Automatic updates
+- Caption: Turn on automatic updates so your devices get fixes without you remembering. Is yours switched on?
+- Hashtags: #TechTips #Security #Updates #LifeHacks #Gadgets
+- TikTok-titel: Turn on automatic updates
+- IG alt-tekst: Cartoon alien Blop next to a laptop with an update toggle and a cloud; text reads "Updates on, worry less".
+- AI-vermelding: Blop is an AI character.
