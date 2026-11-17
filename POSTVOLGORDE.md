@@ -42,7 +42,7 @@ Dit is de feitelijke planning van de eerste goedgekeurde batch op TikTok. De ond
 | BLOP-0008 | 25-11-2026 10:00 | 432004771 | PENDING |
 | BLOP-0009 | 26-11-2026 10:00 | 432004846 | PENDING |
 
-Alle zeven zijn teruggelezen met een MP4-bijlage, `autoPublish: true` en `tiktokData.isAigc: true`. De captions zijn op onderwerp gekoppeld aan CAPTIONS.md, met de vijf hashtags en `Blop is an AI character.`. De negen bronvideo’s van BLOP-0001 t/m 0009 gaven HTTP 200 en een passende SHA-256 conform releases/index.json. Vóór planning was de toekomstige planner leeg en toonden de beschikbare TikTok-analytics sinds 1 november geen gepubliceerde video.
+Alle negen zijn teruggelezen met een MP4-bijlage, `autoPublish: true` en `tiktokData.isAigc: true`. De captions zijn op onderwerp gekoppeld aan CAPTIONS.md, met de vijf hashtags en `Blop is an AI character.`. De negen bronvideo’s van BLOP-0001 t/m 0009 gaven HTTP 200 en een passende SHA-256 conform releases/index.json. Vóór planning was de toekomstige planner leeg en toonden de beschikbare TikTok-analytics sinds 1 november geen gepubliceerde video.
 
 **Update later op 17 november:** CAPTIONS.md op main bevat nu voor secties 2 en 3 `GEREED` met verwijzingen naar de uitgewerkte captions in §10 en §11. Na hercontrole van de bronvideo's en van de planner zijn BLOP-0003 en BLOP-0006 op de vrije dagen 20 en 23 november ingepland. Alle negen TikTok-combinaties uit de expliciet goedgekeurde batch zijn daarmee ingepland, ieder op een afzonderlijke dag. De eerdere blokkade is opgelost. BLOP-0010 t/m 0018 zijn buiten deze goedgekeurde batch gelaten.
 
